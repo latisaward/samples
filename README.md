@@ -7,4 +7,5 @@ Business Presentations: Examples of strategic presentations and policy research 
 
 Consulting and Project Management: Projects demonstrating cross-functional collaboration and process optimization.  
 
+
 These projects reflect my academic journey as a graduate student in Data Science and Business Intelligence and my experience in fields such as public policy, communications, and business analysis. The materials are intended to highlight my analytical, communication, and project management skills.  
