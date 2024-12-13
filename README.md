@@ -1,5 +1,5 @@
 # Sample Projects and Presentations
-This repository contains a collection of sample projects and presentations showcasing my skills in data science, business intelligence, strategic communications, and project management. It includes:  
+This repository contains a collection of sample projects and presentations showcasing my skills in data science, business intelligence, strategic communications, and project management. It includes independent and group work of the following:  
 
 - Data Analysis Projects: Practical examples of data analysis and visualization techniques.   
 
